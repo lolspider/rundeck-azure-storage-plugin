@@ -1,5 +1,5 @@
 ### Modification based on https://github.com/rundeck-plugins/rundeck-azure-storage-plugin.git
-### to support china region
+### Add endpoint_suffix to support china region
 
 ## Rundeck Azure Storage Plugin
 
